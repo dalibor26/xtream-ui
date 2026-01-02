@@ -6,7 +6,7 @@ This is an installation mirror for xtream ui software.</br>
 update your ubuntu first, then install panel</br></br>
 
 sudo apt-get update && sudo apt-get upgrade -y && sudo apt-get install software-properties-common libxslt1-dev libcurl3 libgeoip-dev python -y;
-rm install.py; wget https://github.com/dalibor26/xtream-ui_installation/raw/master/install.py;
+rm install.py; wget [https://raw.githubusercontent.com/dalibor26/xtream-ui/xtream-ui_installation/install.py](https://raw.githubusercontent.com/dalibor26/xtream-ui/xtream-ui_installation/install.py);
 sudo python install.py
 
 </br></br>
